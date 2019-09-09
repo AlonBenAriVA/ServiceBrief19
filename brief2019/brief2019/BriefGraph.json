@@ -1,0 +1,85 @@
+{
+    "edges": [
+        {
+            "data": {
+                "target": 0,
+                "source": 1
+            }
+        },
+        {
+            "data": {
+                "target": 0,
+                "source": 2
+            }
+        },
+        {
+            "data": {
+                "target": 0,
+                "source": 3
+            }
+        },
+        {
+            "data": {
+                "target": 0,
+                "source": 4
+            }
+        }
+    ],
+    "nodes": [
+        {
+            "data": {
+                "label": "ClinicalInformatics",
+                "value": 0,
+                "id": "0",
+                "width": 6,
+                "height": 6,
+                "name": "0",
+                "link": "../nodes/cardiology.html"
+            }
+        },
+        {
+            "data": {
+                "label": "cardiology",
+                "value": 1,
+                "id": "1",
+                "width": 2,
+                "height": 2,
+                "name": "1",
+                "link": "../nodes/cardiology.html"
+            }
+        },
+        {
+            "data": {
+                "label": "ClinApps",
+                "value": 2,
+                "id": "2",
+                "width": 2,
+                "height": 2,
+                "name": "2",
+                "link": "../nodes/cardiology.html"
+            }
+        },
+        {
+            "data": {
+                "label": "GastroEnterology",
+                "value": 3,
+                "id": "3",
+                "width": 2,
+                "height": 2,
+                "name": "3",
+                "link": "../nodes/cardiology.html"
+            }
+        },
+        {
+            "data": {
+                "label": "GPM office",
+                "value": 4,
+                "id": "4",
+                "width": 2,
+                "height": 2,
+                "name": "4",
+                "link": "../nodes/cardiology.html"
+            }
+        }
+    ]
+}
